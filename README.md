@@ -60,10 +60,7 @@ sudo apt install build-essential libx11-dev libxft-dev libxinerama-dev libfreety
 ```
 
 - On OpenBSD:
-
-```
 if Xenocara is installed, dependencies are already met.
-```
 
 - On Void Linux (case sensitive):
 
