@@ -7,6 +7,9 @@
 5. [fakefullscreen](https://dwm.suckless.org/patches/fakefullscreen/) Only allow clients to "fullscreen" into space currently given to them. As an example, this will allow you to view a fullscreen video in your browser on one half of the screen, while having the other half available for other tasks.  
 6. [functionalgaps](https://dwm.suckless.org/patches/functionalgaps/) Functionalgaps combines the beautifully simplistic gaps of [fullgaps](https://dwm.suckless.org/patches/fullgaps/) with the non-gaps of [singularborders](https://dwm.suckless.org/patches/singularborders/) and [noborder](https://dwm.suckless.org/patches/noborder/). It is named functionalgaps because, since gaps are purely aesthetic, and therefore not useful whatsoever, this patch adds to their functionality by allowing them to easily be turned off. This patch is also unique because of its out of the box integration with [pertag](https://dwm.suckless.org/patches/pertag/), allowing gaps to be enabled/disabled and sized on a per-tag basis.  
 
+# Screenshot
+![screenshot](https://user-images.githubusercontent.com/100849131/188226247-c7b77536-93db-4f7b-9a0b-867efa799477.png)
+
 # Keybindings/Shortcuts
 ### By default Mod-key is Windows-key
 | Key | Description |
