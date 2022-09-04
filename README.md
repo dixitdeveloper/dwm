@@ -1,15 +1,15 @@
-#For personal branch
-##Brightness button done
+# For personal branch
+## Brightness button done
 - install brightnessctl
 - for Arch: sudo pacman -S brightnessctl
-##volume button done
-##sallow patch done
+## volume button done
+## sallow patch done
 Dependencies on suckless site:  
 - libxcb
 - Xlib-libxcb
 - xcb-res
 For Arch: sudo pacman -S libxcb xcb-util
-##Better fonts
+## Better fonts
 For Arch: sudo pacman -S terminus-font
 
 
